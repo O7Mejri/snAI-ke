@@ -6,10 +6,10 @@
   - mutation rate: 0.05 || mutation type: static
 
 - The learning part itself is done using a Feed Forward Neural Network:
-- - Input layer with 24 nodes
+  - Input layer with 24 nodes
 Vision in 16 directions
 4 for head current direction
 4 for tail current direction
-- - Output layer with 4 nodes: action direction (segmoid)
-- - Hidden layers: 2 layers 20x12 nodes (relu)
+  - Output layer with 4 nodes: action direction (segmoid)
+  - Hidden layers: 2 layers 20x12 nodes (relu)
 
